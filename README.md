@@ -67,6 +67,10 @@ L’application est pleinement fonctionnelle et propose les actions suivantes :
 - Consulter les détails des objets et les emprunter
 - Suivre l’état des prêts via la page dédiée
 
+## Licence
+free : https://github.com/DanihStephane
+network : https://www.linkedin.com/in/danihstephane
+
 ---
 
 ## Prochaines étapes
