@@ -3,6 +3,12 @@
 ## Description
 Prêt à Partager est une plateforme communautaire qui permet aux utilisateurs de prêter ou d’emprunter des objets du quotidien dans leur localité. Que ce soit des outils de bricolage, des équipements de cuisine, des livres ou des jeux de société, cette application favorise le partage et la collaboration.
 
+![Capture d’écran du 2025-01-08 08-57-24](https://github.com/user-attachments/assets/8b6f23e4-a95f-4451-bc4d-480e3f572c3b)
+
+![Capture d’écran du 2025-01-08 08-57-53](https://github.com/user-attachments/assets/a9652205-cd89-4abb-8b46-4633b6196371)
+
+
+
 ---
 
 ## Fonctionnalités principales
